@@ -17,6 +17,22 @@ Chester Ornes, Dongwoo Kang, Logan Helstad, Nathan Lim, Neal Ornes, Tzu Hsuan Le
 
 ## Process
 
+Our team decided to use the Agile method for our projects because we want to make changes faster. Even though we'll work together in person sometimes, our projects need a way to work well when we're not all in the same place.
+There are some other good things about using Agile:
+1. Flexibility: If we run into problems during the project, we need to be able to change our plans quickly. Agile helps us do that.
+2. Stakeholder Engagement: We talked to the people interested in our project, and they want to be a part of it. So, our project management needs to be able to include ideas and changes from them.
+
+The exact process is as follows:
+
+1. Spend 2-3 weeks on gathering requirements and analysis.
+2. Spend 1 week on designing the interface of the APP.
+3. Spending 85% of our time on coding and testing.
+4. Spend 2-3 weeks on system and other testing such as integration test, and end-to-end test.
+5. Spend 2 weeks on user acceptance testing by random sampling on the street or campus.
+6. Spend 1 week changing the user interface design based on user acceptance testing feedback. 
+7. Spend 5 days to check everything and make a demo to show the project partner, then deploy the product. 
+
+
 ## Roles
 
 - Project Manager: Nathan Lim 
