@@ -1,6 +1,10 @@
 # Software Development Process
 *Cloud-Based Algorithmic Trading Strategies for High-Performance Portfolios*
 
+Chester Ornes, Dongwoo Kang, Logan Helstad, Nathan Lim, Neal Ornes, Tzu Hsuan Lee, Ya Zou
+
+2024 Senior Software Engineering Project, Oregon State University
+
 ## Principles 
 
 - If a team member encounters difficulties in completing their assigned tasks, it is their responsibility to proactively engage with their teammates, seeking assistance or guidance, rather than withholding information until the project's conclusion.
